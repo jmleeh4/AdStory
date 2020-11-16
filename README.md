@@ -33,17 +33,17 @@ AdStory
 * [JQuery](https://jquery.com)
 </br>
 ### UserInfomation
-*주소 : localhost:9090/adstory
+* 주소 : localhost:9090/adstory
 
-*기업회원
+* 기업회원
 아이디 : sinsa , client1, client2, client3, client4
 비밀번호 : 1234
 
-*일반회원
+* 일반회원
 아이디 : honggd, test1, test2, test3
 비밀번호 : 1234
 
-*관리자
+* 관리자
 아이디 : kimdh
 비밀번호: 1234
 
