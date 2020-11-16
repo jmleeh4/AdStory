@@ -1,4 +1,4 @@
-<h3 align="center">🍋Lemon Biz</h3>
+<h3 align="center">AdStroty</h3>
 
 <p align="center">
 
