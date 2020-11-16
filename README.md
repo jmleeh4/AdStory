@@ -16,17 +16,18 @@
 
 ## 프로젝트 정보
 ### 프로젝트 명
-Lemon Biz
+AdStory
 ### 수행 기간
-2020년 10월 01일 ~ 2020년 11월 02일
+2020년 08월 06일 ~ 2020년 08월 20일
 ### 개발 목표
-어느 특정 회사의 그룹웨어를 만드는 것이 아닌,  
-그룹웨어 솔루션을 판매하는 회사의 입장이 되어 개발하는 것을 설계의 주안점으로 잡았습니다.
+퍼포먼스마케팅 실시간 온라인광고운영 서비스 플랫폼 구현
 ### 개발 환경
-* Java8
-* [Oracle 11g express edition](https://www.oracle.com)
-* [Spring](https://spring.io/)(Spring MVC, Spring Security, Mybatis)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [AWS RDS](https://aws.amazon.com/ko/rds/)  
+* OS : Window 10
+* Server : Tomcat8
+* 개발언어 : Java8, JSP, javascript, SQL, Html 
+* DBMS : [Oracle 11g express edition](https://www.oracle.com)
+* framework : [Spring](https://spring.io/)(Spring MVC, Spring Security, Mybatis)
+*             [Bootstrap](https://getbootstrap.com)
+*             [JQuery](https://jquery.com)
+
 
