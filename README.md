@@ -26,8 +26,9 @@ AdStory
 * Server : Tomcat8
 * 개발언어 : Java8, JSP, javascript, SQL, Html 
 * DBMS : [Oracle 11g express edition](https://www.oracle.com)
-* framework : [Spring](https://spring.io/)(Spring MVC, Spring Security, Mybatis)
-*             [Bootstrap](https://getbootstrap.com)
-*             [JQuery](https://jquery.com)
+* framework : 
+* [Spring](https://spring.io/)(Spring MVC, Spring Security, Mybatis)
+* [Bootstrap](https://getbootstrap.com)
+* [JQuery](https://jquery.com)
 
 
