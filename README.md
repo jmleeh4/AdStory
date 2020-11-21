@@ -1,7 +1,7 @@
 <h3 align="center">AdStroty</h3>
 
 <p align="center">
-
+바이럴마케팅 프로바이더 프로젝트
 </p>
 
 
@@ -32,6 +32,7 @@ AdStory
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 </br>
+
 ### UserInfomation
 
 * 주소 : localhost:9090/adstory
