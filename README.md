@@ -12,7 +12,7 @@
   * [수행 기간](#수행-기간)
   * [개발 목표](#개발-목표)
   * [개발 환경](#개발-환경)
-  * [userInfomation]
+  * [userInfomation](#유저-정보)
 </br>
 </br>
 
@@ -34,7 +34,7 @@ AdStory
 * [JQuery](https://jquery.com)
 </br>
 
-### UserInfomation
+### 유저 정보
 
 * 주소 : localhost:9090/adstory
 
