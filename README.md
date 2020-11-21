@@ -1,9 +1,9 @@
-<h3 align="center">AdStroty</h3>
+<h2 align="center">AdStroty</h2>
 
-<p align="center">
+<h4 align="center">
 바이럴마케팅 프로바이더 프로젝트
-</p>
-
+</h4>
+<br/>
 
 ## 목차
 
